@@ -1,0 +1,22 @@
+:root {
+  --color-primary: #3f91e7;
+  --color-primary-hover: #095f95;
+
+  --color-text-primary: #e6e6e6;
+  --color-text-secondary: #afafaf;
+
+  --color-background: #18191a;
+  --color-background-alt: #242526;
+  --banner-background: #000000;
+
+  --color-success: #22b463;
+  --color-success-hover: #04863e;
+  --color-error: #ff6b6b;
+  --color-warning: #f7b731;
+
+  --color-link: var(--color-primary);
+  --color-link-hover: #82cfff;
+
+  --color-border: #3a3b3c;
+  --color-shadow: rgba(0, 0, 0, 0.5);
+}
